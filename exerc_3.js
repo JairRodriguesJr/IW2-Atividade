@@ -15,3 +15,8 @@ c[0].style.backgroundColor = "#05ff6e";
 
 //querySelector
 document.querySelector(".y").style.backgroundColor = "#ffff93";
+
+//document.querySelectorAll->não consegui fazer
+//const nodeList = document.querySelectorAll("h4.example");
+//nodeList[0].style.backgroundColor = "red";
+//}
