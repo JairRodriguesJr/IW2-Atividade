@@ -11,4 +11,7 @@ document.getElementById("2").innerHTML = 'Esse texto (index 0) é: ' + element[0
 
 //className
 const c = document.getElementsByClassName("exemplo_cor");
-c[0].style.backgroundColor = "red";
+c[0].style.backgroundColor = "#05ff6e";
+
+//querySelector
+document.querySelector(".y").style.backgroundColor = "#ffff93";
